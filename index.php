@@ -245,16 +245,16 @@
                         </div>
                     </div>
                     <!-- end of card -->
-
-                    <!-- Card -->
                     <div class="card">
-                        <img class="card-image" src="images/bootstrap.png"   alt="alternative">
+                        <img class="card-image" src="images/bootstrap.png" alt="alternative">
                         <div class="card-body">
-                            <h4 class="card-title">BOOSTRAP</h4>
-                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                            <h4 class="card-title">BOOTSTRAP</h4>
+                            <p>Once the market analysis process is completed our staff will search for opportunities that are in reach</p>
                         </div>
                     </div>
                     <!-- end of card -->
+
+                    
                     <!-- Card -->
                     <div class="card">
                         <img class="card-image" src="images/dart.png" alt="alternative">
