@@ -71,7 +71,7 @@
                     <a class="nav-link page-scroll" href="#pricing">Pricing</a>
                 </li> -->
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#request">Hire</a>
+                    <a class="nav-link page-scroll" href="#request">miqdfad</a>
                 </li>
 
                 <!-- Dropdown Menu -->          
