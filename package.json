@@ -1,0 +1,12 @@
+{
+    "name": "Miqdad Portfolio",
+    "version": "1.0.0",
+    "description": "Portfolio",
+    "scripts": {
+      "start": "serve",
+    },
+    "dependencies": {
+      "serve": "^10.0.1"
+    },
+    "author": "Miqdad Agil"
+  }
