@@ -57,7 +57,7 @@
 		},
         loop: true,
         spaceBetween: 30,
-        slidesPerView: 5,
+        slidesPerView: 3,
 		breakpoints: {
             // when window is <= 580px
             580: {

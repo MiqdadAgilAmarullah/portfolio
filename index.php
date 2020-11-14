@@ -18,7 +18,7 @@
 	<meta property="og:type" content="article" />
 
     <!-- Website Title -->
-    <title>Evolo - Miqdad HTML Landing Page Template</title>
+    <title>Portfolio- Miqdad Agil Amarullah</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,600,700,700i&amp;subset=latin-ext" rel="stylesheet">
@@ -50,7 +50,7 @@
         <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Evolo</a> -->
 
         <!-- Image Logo -->
-        <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>
+        <a class="navbar-brand " href="index.html"><img src="images/lopgo.png" alt="alternative" style="width:15%;"></a>
         
         <!-- Mobile Menu Toggle Button -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -65,7 +65,7 @@
                     <a class="nav-link page-scroll" href="#header">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#services">Services</a>
+                    <a class="nav-link page-scroll" href="#services">Skills</a>
                 </li>
                 <!-- <li class="nav-item">
                     <a class="nav-link page-scroll" href="#pricing">Pricing</a>
@@ -89,20 +89,20 @@
                     <a class="nav-link page-scroll" href="#contact">Contact</a>
                 </li>
             </ul>
-            <span class="nav-item social-icons">
+            <!-- <span class="nav-item social-icons">
                 <span class="fa-stack">
                     <a href="#your-link">
-                        <i class="fas fa-circle fa-stack-2x facebook"></i>
-                        <i class="fab fa-facebook-f fa-stack-1x"></i>
-                    </a>
+                        <!-- <i class="fas fa-circle fa-stack-2x facebook"></i>
+                        <i class="fab fa-facebook-f fa-stack-1x"></i> -->
+                    <!-- </a>
                 </span>
                 <span class="fa-stack">
                     <a href="#your-link">
-                        <i class="fas fa-circle fa-stack-2x twitter"></i>
-                        <i class="fab fa-twitter fa-stack-1x"></i>
-                    </a>
+                        <!-- <i class="fas fa-circle fa-stack-2x twitter"></i>
+                        <i class="fab fa-twitter fa-stack-1x"></i> -->
+                    <!-- </a>
                 </span>
-            </span>
+            </span> --> 
         </div>
     </nav> <!-- end of navbar -->
     <!-- end of navigation -->
@@ -115,14 +115,15 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="text-container">
-                            <h1><span class="turquoise">StartUp Landing</span> Page Template Free</h1>
-                            <p class="p-large">Use Evolo free landing page template to promote your business startup and generate leads for the offered services</p>
+                            <h1><span class="turquoise">Miqdad Agil Amarullah</span> </h1>
+                            <p class="p-large" style="font-weight: bold;">BACHELOR'S DEGREE COMPUTER SCIENCE/INFORMATION TECHNOLOGY OF STT WASTUKANCANA </p>
+                            <p class="p-large" style="font-weight: ;">Intern Programmer at PT.Kalbe Morinaga Indonesia, UI Design Enthusias (Adobe XD), 3D Design Enthusias (Blender), Unity Programmer, Web Programmer (Code Igniter 3), Mobile Programmer (Flutter)</p>
                             <a class="btn-solid-lg page-scroll" href="#services">DISCOVER</a>
                         </div> <!-- end of text-container -->
                     </div> <!-- end of col -->
                     <div class="col-lg-6">
                         <div class="image-container">
-                            <img class="img-fluid" src="images/header-teamwork.svg" alt="alternative">
+                            <img class="img-fluid" src="images/foto.png" alt="alternative" >
                         </div> <!-- end of image-container -->
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
@@ -137,7 +138,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h5>Trusted By</h5>
+                    <h5>Experience</h5>
                     
                     <!-- Image Slider -->
                     <div class="slider-container">
@@ -145,34 +146,37 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="image-container">
-                                        <img class="img-responsive" src="images/customer-logo-1.png" alt="alternative">
+                                        <img class="img-responsive" src="images/indorama-logo.png" alt="alternative" style="width:95%;">
+                                    </div>
+                                </div>
+                                
+                                <div class="swiper-slide">
+                                    <div class="image-container">
+                                        <img class="img-responsive" src="images/noritake.png" alt="alternative" style="width:95%;">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="image-container">
-                                        <img class="img-responsive" src="images/customer-logo-2.png" alt="alternative">
+                                        <img class="img-responsive" src="images/kalbetrnsprnt.png" alt="alternative" style="width:95%;height:90%;">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="image-container">
-                                        <img class="img-responsive" src="images/customer-logo-3.png" alt="alternative">
+                                        <img class="img-responsive" src="images/indorama-logo.png" alt="alternative" style="width:95%;">
+                                    </div>
+                                </div>
+                                
+                                <div class="swiper-slide">
+                                    <div class="image-container">
+                                        <img class="img-responsive" src="images/noritake.png" alt="alternative" style="width:95%;">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="image-container">
-                                        <img class="img-responsive" src="images/customer-logo-4.png" alt="alternative">
+                                        <img class="img-responsive" src="images/kalbetrnsprnt.png" alt="alternative" style="width:95%;height:90%;">
                                     </div>
                                 </div>
-                                <div class="swiper-slide">
-                                    <div class="image-container">
-                                        <img class="img-responsive" src="images/customer-logo-5.png" alt="alternative">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="image-container">
-                                        <img class="img-responsive" src="images/customer-logo-6.png" alt="alternative">
-                                    </div>
-                                </div>
+                                
                             </div> <!-- end of swiper-wrapper -->
                         </div> <!-- end of swiper container -->
                     </div> <!-- end of slider-container -->
@@ -190,28 +194,53 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Business Growth Services</h2>
-                    <p class="p-heading p-large">We serve small and medium sized companies in all tech related industries with high quality growth services which are presented below</p>
+                    <h2>SKILLS</h2>
+                    <p class="p-heading p-large">to support my career I always learn new skills and new experiences.</p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
                 <div class="col-lg-12">
-
                     <!-- Card -->
                     <div class="card">
-                        <img class="card-image" src="images/services-icon-1.svg" alt="alternative">
+                        <img class="card-image" src="images/html.svg" alt="alternative">
                         <div class="card-body">
-                            <h4 class="card-title">Market Analysis</h4>
+                            <h4 class="card-title">HTML</h4>
                             <p>Our team of enthusiastic marketers will analyse and evaluate how your company stacks against the closest competitors</p>
                         </div>
                     </div>
                     <!-- end of card -->
-
                     <!-- Card -->
                     <div class="card">
-                        <img class="card-image" src="images/services-icon-2.svg" alt="alternative">
+                        <img class="card-image" src="images/css.png" alt="alternative">
                         <div class="card-body">
-                            <h4 class="card-title">Opportunity Scan</h4>
+                            <h4 class="card-title">CSS</h4>
+                            <p>Our team of enthusiastic marketers will analyse and evaluate how your company stacks against the closest competitors</p>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+                    <!-- end of card -->
+                    <div class="card">
+                        <img class="card-image" src="images/php.png" style="width:80%" alt="alternative">
+                        <div class="card-body">
+                            <h4 class="card-title">PHP</h4>
+                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+                    <!-- Card -->
+                    <div class="card">
+                        <img class="card-image" src="images/js.svg" alt="alternative">
+                        <div class="card-body">
+                            <h4 class="card-title">JAVASCRIPT</h4>
+                            <p>Our team of enthusiastic marketers will analyse and evaluate how your company stacks against the closest competitors</p>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+                    <!-- Card -->
+                    <div class="card">
+                        <img class="card-image" src="images/jquery.png" alt="alternative">
+                        <div class="card-body">
+                            <h4 class="card-title">JQUERY</h4>
                             <p>Once the market analysis process is completed our staff will search for opportunities that are in reach</p>
                         </div>
                     </div>
@@ -219,13 +248,30 @@
 
                     <!-- Card -->
                     <div class="card">
-                        <img class="card-image" src="images/services-icon-3.svg" alt="alternative">
+                        <img class="card-image" src="images/bootstrap.png"   alt="alternative">
                         <div class="card-body">
-                            <h4 class="card-title">Action Plan</h4>
+                            <h4 class="card-title">BOOSTRAP</h4>
                             <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
                         </div>
                     </div>
                     <!-- end of card -->
+                    <!-- Card -->
+                    <div class="card">
+                        <img class="card-image" src="images/dart.png" alt="alternative">
+                        <div class="card-body">
+                            <h4 class="card-title">DART</h4>
+                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+                    <!-- Card -->
+                    <div class="card">
+                        <img class="card-image" src="images/unity.png" alt="alternative">
+                        <div class="card-body">
+                            <h4 class="card-title">c# UNITY</h4>
+                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                        </div>
+                    </div>
                     
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
