@@ -248,7 +248,7 @@
 
                     <!-- Card -->
                     <div class="card">
-                        <img class="card-image" src="images/bootstrap.svg"   alt="alternative">
+                        <img class="card-image" src="images/bootstrap.png"   alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">BOOSTRAP</h4>
                             <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
