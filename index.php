@@ -246,7 +246,7 @@
                     </div>
                     <!-- end of card -->
                     <div class="card">
-                        <img class="card-image" src="images/jquery.png" alt="alternative">
+                        <img class="card-image" src="images/b.png" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">BOOTSTRAP</h4>
                             <p>Once the market analysis process is completed our staff will search for opportunities that are in reach</p>
