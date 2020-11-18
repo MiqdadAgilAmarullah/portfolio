@@ -50,7 +50,7 @@
         <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Evolo</a> -->
 
         <!-- Image Logo -->
-        <a class="navbar-brand " href="index.html"><img src="images/lopgo.png" alt="alternative" style="width:15%;"></a>
+        <a class="navbar-brand " ><img src="images/lopgo.png" alt="alternative" style="width:15%;"></a>
         
         <!-- Mobile Menu Toggle Button -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -200,7 +200,7 @@
                         <img class="card-image" src="images/html.svg" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">HTML</h4>
-                            <p>Our team of enthusiastic marketers will analyse and evaluate how your company stacks against the closest competitors</p>
+                            <p>What is HTML? HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content</p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -209,7 +209,7 @@
                         <img class="card-image" src="images/css.png" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">CSS</h4>
-                            <p>Our team of enthusiastic marketers will analyse and evaluate how your company stacks against the closest competitors</p>
+                            <p>Cascading Style Sheets ( CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.</p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -218,7 +218,7 @@
                         <img class="card-image" src="images/php.png" style="width:80%" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">PHP</h4>
-                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                            <p>PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.</p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -227,7 +227,7 @@
                         <img class="card-image" src="images/js.svg" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">JAVASCRIPT</h4>
-                            <p>Our team of enthusiastic marketers will analyse and evaluate how your company stacks against the closest competitors</p>
+                            <p>What is JavaScript ? JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.</p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -236,7 +236,7 @@
                         <img class="card-image" src="images/jquery.png" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">JQUERY</h4>
-                            <p>Once the market analysis process is completed our staff will search for opportunities that are in reach</p>
+                            <p>What is jQuery. jQuery is a fast, small and feature-rich JavaScript library included in a single .js file. jQuery makes a web developer's life easy. It provides many built-in functions using which you can accomplish various tasks easily and quickly.</p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -244,7 +244,7 @@
                         <img class="card-image" src="images/b.png" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">BOOTSTRAP</h4>
-                            <p>Once the market analysis process is completed our staff will search for opportunities that are in reach</p>
+                            <p>A bootstrap is the program that initializes the operating system (OS) during startup. The term bootstrap or bootstrapping originated in the early 1950s. It referred to a bootstrap load button that was used to initiate a hardwired bootstrap program, or smaller program that executed a larger program such as the OS.</p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -255,7 +255,7 @@
                         <img class="card-image" src="images/dart.png" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">DART</h4>
-                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                            <p>Dart is a client-optimized programming language for apps on multiple platforms. It is developed by Google and is used to build mobile, desktop, server, and web applications. Dart is an object-oriented, class-based, garbage-collected language with C -style syntax. Dart can compile to either native code or JavaScript.</p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -264,7 +264,7 @@
                         <img class="card-image" src="images/unity.png" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">c# UNITY</h4>
-                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                            <p>The language that’s used in Unity is called C# (pronounced C-sharp). All the languages that Unity operates with are object-oriented scripting languages. Like any language, scripting languages have syntax, or parts of speech, and the primary parts are called variables, functions, and classes.</p>
                         </div>
                     </div>
                     <!-- Card -->
@@ -272,7 +272,7 @@
                         <img class="card-image" src="images/blender.png" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">BLENDER</h4>
-                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                            <p>Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.</p>
                         </div>
                     </div>
                     <!-- Card -->
@@ -280,7 +280,7 @@
                         <img class="card-image" src="images/xd.png" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">ADOBE XD</h4>
-                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                            <p>Adobe XD is a vector-based user experience design tool for web apps and mobile apps, developed and published by Adobe Inc. It is available for macOS and Windows, although there are versions for iOS and Android to help preview the result of work directly on mobile devices. Adobe XD supports website wireframing and creating click-through prototypes.</p>
                         </div>
                     </div>
                     
