@@ -407,7 +407,7 @@
                         <div class="image-container">
                             <div class="video-wrapper">
                                 <a class="popup-youtube" href="https://www.youtube.com/watch?v=YxlE_5rAGok" data-effect="fadeIn">
-                                    <img class="img-fluid" src="images/video-frame.svg" alt="alternative">
+                                    <img class="img-fluid" src="images/e-okp.png" alt="alternative">
                                     <span class="video-play-button">
                                         <span></span>
                                     </span>
@@ -425,7 +425,7 @@
                         <div class="image-container">
                             <div class="video-wrapper">
                                 <a class="popup-youtube" href="https://www.youtube.com/watch?v=27ux0N5LgNc" data-effect="fadeIn">
-                                    <img class="img-fluid" src="images/video-frame.svg" alt="alternative">
+                                    <img class="img-fluid" src="images/e_school.png" alt="alternative">
                                     <span class="video-play-button">
                                         <span></span>
                                     </span>
@@ -444,7 +444,7 @@
                         <div class="image-container">
                             <div class="video-wrapper">
                                 <a class="popup-youtube" href="https://www.youtube.com/watch?v=iMK23e4uKHk" data-effect="fadeIn">
-                                    <img class="img-fluid" src="images/video-frame.svg" alt="alternative">
+                                    <img class="img-fluid" src="images/ui_ux.png" alt="alternative">
                                     <span class="video-play-button">
                                         <span></span>
                                     </span>
@@ -452,7 +452,7 @@
                             </div> <!-- end of video-wrapper -->
                         </div> <!-- end of image-container -->
                         <!-- end of video preview -->
-                        <p><strong style="text-align:center">UI UX E-SCHOOL </strong> is Mobile app for supporting school activities with video Content <strong>Technology use CodeIgniter 3 as Backend & flutter as frontend</strong></p>
+                        <p><strong style="text-align:center">UI UX E-SCHOOL </strong> is Desing of Mobile app for supporting school activities with video Content <strong>Technology use Adobe XD</strong></p>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
                 <br><br> <!-- end of row -->
@@ -462,7 +462,7 @@
                         <div class="image-container">
                             <div class="video-wrapper">
                                 <a class="popup-youtube" href="https://www.youtube.com/watch?v=2Uc-rXtLlSg" data-effect="fadeIn">
-                                    <img class="img-fluid" src="images/video-frame.svg" alt="alternative">
+                                    <img class="img-fluid" src="images/Aoi_monitoring.png" alt="alternative">
                                     <span class="video-play-button">
                                         <span></span>
                                     </span>
@@ -471,6 +471,24 @@
                         </div> <!-- end of image-container -->
                         <!-- end of video preview -->
                         <p><strong style="text-align:center">AOI (Augmented Operator Inspection) </strong> is Augmented Reality App for Inspecting Machine Parameters in realtime <strong>Technology use PHP Native as Backend & Unity as frontend</strong></p>
+                    </div> <!-- end of col -->
+                </div> <!-- end of row -->
+                <br><br> <!-- end of row -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- Video Preview -->
+                        <div class="image-container">
+                            <div class="video-wrapper">
+                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=aHE1WnUfU7k" data-effect="fadeIn">
+                                    <img class="img-fluid" src="images/aoi.png" alt="alternative">
+                                    <span class="video-play-button">
+                                        <span></span>
+                                    </span>
+                                </a>
+                            </div> <!-- end of video-wrapper -->
+                        </div> <!-- end of image-container -->
+                        <!-- end of video preview -->
+                        <p><strong style="text-align:center">AOI Monitoring </strong> is Web App for Inspecting Machine Parameters in realtime and give notification use telegram bot <strong>Technology use Codeigniter 3</strong></p>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
@@ -490,6 +508,7 @@
                         <li><i class="fas fa-map-marker-alt"></i>jl.Industri Curug Ds.Hegarmanah Kec.Babakancikao Purwakarta, Indonesia</li>
                         <li><i class="fas fa-phone"></i><a class="turquoise" >+62 8555 978 583</a></li>
                         <li><i class="fas fa-envelope"></i><a class="turquoise" href="mailto:careermiqdad@gmail.com">careermiqdad@gmail.com</a></li>
+                        <li><i class="fa fa-github" aria-hidden="true"></i><a class="turquoise" href="https://github.com/MiqdadAgilAmarullah">https://github.com/MiqdadAgilAmarullah</a></li>
                     </ul>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
