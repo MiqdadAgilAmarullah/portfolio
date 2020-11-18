@@ -452,7 +452,7 @@
                             </div> <!-- end of video-wrapper -->
                         </div> <!-- end of image-container -->
                         <!-- end of video preview -->
-                        <p><strong style="text-align:center">UI UX E-SCHOOL </strong> is Desing of Mobile app for supporting school activities with video Content <strong>Technology use Adobe XD</strong></p>
+                        <p><strong style="text-align:center">UI UX E-SCHOOL </strong> is Design of Mobile app for supporting school activities with video Content <strong>Technology use Adobe XD</strong></p>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
                 <br><br> <!-- end of row -->
