@@ -462,7 +462,7 @@
                         <div class="image-container">
                             <div class="video-wrapper">
                                 <a class="popup-youtube" href="https://www.youtube.com/watch?v=2Uc-rXtLlSg" data-effect="fadeIn">
-                                    <img class="img-fluid" src="images/Aoi_monitoring.png" alt="alternative">
+                                    <img class="img-fluid" src="images/oia.png" alt="alternative">
                                     <span class="video-play-button">
                                         <span></span>
                                     </span>
