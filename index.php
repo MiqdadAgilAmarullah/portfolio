@@ -76,7 +76,7 @@
 
                 <!-- Dropdown Menu -->          
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#about"  role="button" aria-haspopup="true" aria-expanded="false">Projects</a>
+                    <a class="nav-link page-scroll" href="#about"  role="button" aria-haspopup="true" aria-expanded="false">Portfolio</a>
                 </li>
                 <!-- end of dropdown menu -->
 
@@ -267,6 +267,22 @@
                             <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
                         </div>
                     </div>
+                    <!-- Card -->
+                    <div class="card">
+                        <img class="card-image" src="images/blender.png" alt="alternative">
+                        <div class="card-body">
+                            <h4 class="card-title">BLENDER</h4>
+                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                        </div>
+                    </div>
+                    <!-- Card -->
+                    <div class="card">
+                        <img class="card-image" src="images/xd.png" alt="alternative">
+                        <div class="card-body">
+                            <h4 class="card-title">ADOBE XD</h4>
+                            <p>With all the information in place you will be presented with an action plan that your company needs to follow</p>
+                        </div>
+                    </div>
                     
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -312,7 +328,6 @@
                 <div class="col-lg-4">
                     <h3>My Experience</h3>
                     <hr>
-                    <h5>my experience from various types of work, including below:</h5>
                     <ul class="list-unstyled li-space-lg">
                         <li class="media">
                             <i class="fas fa-check"></i><div class="media-body">junior electrical & instrument at PT. INDORAMA SYNTHETICS </div>
@@ -383,16 +398,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h2>Check Out The Video of my projects</h2>
+                        <h2>MY PORTFOLIO</h2>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
                 <div class="row">
                     <div class="col-lg-12">
-                        
                         <!-- Video Preview -->
                         <div class="image-container">
                             <div class="video-wrapper">
-                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=fLCjQJCekTs" data-effect="fadeIn">
+                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=YxlE_5rAGok" data-effect="fadeIn">
                                     <img class="img-fluid" src="images/video-frame.svg" alt="alternative">
                                     <span class="video-play-button">
                                         <span></span>
@@ -401,8 +415,62 @@
                             </div> <!-- end of video-wrapper -->
                         </div> <!-- end of image-container -->
                         <!-- end of video preview -->
-
-                        <p>This video will show you a case study for one of our <strong>Major Customers</strong> and will help you understand why your startup needs Evolo in this highly competitive market</p>
+                        <p><strong style="text-align:center">E-OKP (Order Kerja Produksi)</strong> is web app for distribution okp documents effeciently & easily approving the input data is form Oracle Table view <strong>Technology use CodeIgniter 3</strong></p>
+                    </div> <!-- end of col -->
+                </div>
+                <br><br> <!-- end of row -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- Video Preview -->
+                        <div class="image-container">
+                            <div class="video-wrapper">
+                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=27ux0N5LgNc" data-effect="fadeIn">
+                                    <img class="img-fluid" src="images/video-frame.svg" alt="alternative">
+                                    <span class="video-play-button">
+                                        <span></span>
+                                    </span>
+                                </a>
+                            </div> <!-- end of video-wrapper -->
+                        </div> <!-- end of image-container -->
+                        <!-- end of video preview -->
+                        <p><strong style="text-align:center">E-SCHOOL </strong> is Mobile app for supporting school activities with video Content <strong>Technology use CodeIgniter 3 as Backend & flutter as frontend</strong></p>
+                    </div> <!-- end of col -->
+                </div> <!-- end of row -->
+                <br><br> <!-- end of row -->
+                <br><br> <!-- end of row -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- Video Preview -->
+                        <div class="image-container">
+                            <div class="video-wrapper">
+                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=iMK23e4uKHk" data-effect="fadeIn">
+                                    <img class="img-fluid" src="images/video-frame.svg" alt="alternative">
+                                    <span class="video-play-button">
+                                        <span></span>
+                                    </span>
+                                </a>
+                            </div> <!-- end of video-wrapper -->
+                        </div> <!-- end of image-container -->
+                        <!-- end of video preview -->
+                        <p><strong style="text-align:center">UI UX E-SCHOOL </strong> is Mobile app for supporting school activities with video Content <strong>Technology use CodeIgniter 3 as Backend & flutter as frontend</strong></p>
+                    </div> <!-- end of col -->
+                </div> <!-- end of row -->
+                <br><br> <!-- end of row -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- Video Preview -->
+                        <div class="image-container">
+                            <div class="video-wrapper">
+                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=2Uc-rXtLlSg" data-effect="fadeIn">
+                                    <img class="img-fluid" src="images/video-frame.svg" alt="alternative">
+                                    <span class="video-play-button">
+                                        <span></span>
+                                    </span>
+                                </a>
+                            </div> <!-- end of video-wrapper -->
+                        </div> <!-- end of image-container -->
+                        <!-- end of video preview -->
+                        <p><strong style="text-align:center">AOI (Augmented Operator Inspection) </strong> is Augmented Reality App for Inspecting Machine Parameters in realtime <strong>Technology use PHP Native as Backend & Unity as frontend</strong></p>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
