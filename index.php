@@ -244,7 +244,7 @@
                         <img class="card-image" src="images/b.png" alt="alternative">
                         <div class="card-body">
                             <h4 class="card-title">BOOTSTRAP</h4>
-                            <p>A bootstrap is the program that initializes the operating system (OS) during startup. The term bootstrap or bootstrapping originated in the early 1950s. It referred to a bootstrap load button that was used to initiate a hardwired bootstrap program, or smaller program that executed a larger program such as the OS.</p>
+                            <p>A Bootstrap is a web framework that focuses on simplifying the development of informative web pages (as opposed to web apps). The primary purpose of adding it to a web project is to apply Bootstrap's choices of color, size, font and layout to that project.</p>
                         </div>
                     </div>
                     <!-- end of card -->
