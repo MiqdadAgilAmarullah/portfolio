@@ -239,7 +239,7 @@
                             <p>What is jQuery. jQuery is a fast, small and feature-rich JavaScript library included in a single .js file. jQuery makes a web developer's life easy. It provides many built-in functions using which you can accomplish various tasks easily and quickly.</p>
                         </div>
                     </div>
-                    <!-- end of card -->
+                    <!-- end of card --> 
                     <div class="card">
                         <img class="card-image" src="images/b.png" alt="alternative">
                         <div class="card-body">
@@ -507,6 +507,24 @@
                         </div> <!-- end of image-container -->
                         <!-- end of video preview -->
                         <p><strong style="text-align:center">Simple Calculator</strong> is Mobile App for calculating numbers <strong>Technology use Flutter</strong></p>
+                    </div> <!-- end of col -->
+                </div> <!-- end of row -->
+                <br><br> <!-- end of row -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- Video Preview -->
+                        <div class="image-container">
+                            <div class="video-wrapper">
+                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=4gTwI51DWVI" data-effect="fadeIn">
+                                    <img class="img-fluid" src="images/dct.png" alt="alternative">
+                                    <span class="video-play-button">
+                                        <span></span>
+                                    </span>
+                                </a>
+                            </div> <!-- end of video-wrapper -->
+                        </div> <!-- end of image-container -->
+                        <!-- end of video preview -->
+                        <p><strong style="text-align:center">Dictionary App</strong> is Mobile App for Searching the mean of word, connect to api owl <strong>Technology use Flutter</strong></p>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
