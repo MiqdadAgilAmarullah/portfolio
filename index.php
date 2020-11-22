@@ -545,6 +545,24 @@
                         <p><strong style="text-align:center">AR Bangun Ruang</strong> is Augmnted Reality app for learn 3d shape in fun way also have fiture calculate according to the formula of shape <strong>Technology use Unity</strong></p>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
+                <br><br> <!-- end of row -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- Video Preview -->
+                        <div class="image-container">
+                            <div class="video-wrapper">
+                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=nA77VNbIa14" data-effect="fadeIn">
+                                    <img class="img-fluid" src="images/argam.png" alt="alternative">
+                                    <span class="video-play-button">
+                                        <span></span>
+                                    </span>
+                                </a>
+                            </div> <!-- end of video-wrapper -->
+                        </div> <!-- end of image-container -->
+                        <!-- end of video preview -->
+                        <p><strong style="text-align:center">AR Gamelan</strong> is Augmnted Reality app for learn Sundanese Gamelan & play for virtual <strong>Technology use Unity</strong></p>
+                    </div> <!-- end of col -->
+                </div> <!-- end of row -->
             </div> <!-- end of container -->
         </div> <!-- end of basic-3 -->
         <!-- end of video -->
