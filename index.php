@@ -524,7 +524,7 @@
                             </div> <!-- end of video-wrapper -->
                         </div> <!-- end of image-container -->
                         <!-- end of video preview -->
-                        <p><strong style="text-align:center">Dictionary App</strong> is Mobile App for Searching the mean of word, connect to api owl <strong>Technology use Flutter</strong></p>
+                        <p><strong style="text-align:center">Dictionary App</strong> is Mobile App for Searching the mean of word, connect to owlBot Dictionary API <strong>Technology use Flutter</strong></p>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
