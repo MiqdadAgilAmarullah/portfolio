@@ -424,6 +424,24 @@
                         <!-- Video Preview -->
                         <div class="image-container">
                             <div class="video-wrapper">
+                                <a class="popup-youtube" href="https://www.youtube.com/watch?v=QJmHBXB4HA4" data-effect="fadeIn">
+                                    <img class="img-fluid" src="images/rhmonitoring.png" alt="alternative">
+                                    <span class="video-play-button">
+                                        <span></span>
+                                    </span>
+                                </a>
+                            </div> <!-- end of video-wrapper -->
+                        </div> <!-- end of image-container -->
+                        <!-- end of video preview -->
+                        <p><strong style="text-align:center">Temperature & Humidity Monitoring</strong> is web app for displaying realtime graph temperature & humidity monitoring<strong> Technology use CodeIgniter 3 & arduino</strong></p>
+                    </div> <!-- end of col -->
+                </div>
+                <br><br> <!-- end of row -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- Video Preview -->
+                        <div class="image-container">
+                            <div class="video-wrapper">
                                 <a class="popup-youtube" href="https://www.youtube.com/watch?v=27ux0N5LgNc" data-effect="fadeIn">
                                     <img class="img-fluid" src="images/e_school.png" alt="alternative">
                                     <span class="video-play-button">
